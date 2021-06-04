@@ -1,1 +1,1 @@
-# turing_machine
+A simple turing machine simulator.
